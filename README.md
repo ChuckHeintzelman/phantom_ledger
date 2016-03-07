@@ -35,3 +35,4 @@ As of right now the scripts are simply logging in and saving (as .html) the defa
   - For now, this script doesn't work if 2-factor authorization is enabled on your Google account
   - It also stops short of actually downloading the report due to how Google coded this page
 - Gumroad
+  - Holding off until later stages so we can use their API directly
