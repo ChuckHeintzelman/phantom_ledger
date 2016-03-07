@@ -1,0 +1,12 @@
+# Ignore local vendor/ruby stuff installed with Bundler
+/vendor/*
+
+# Ignore bundler config.
+/.bundle
+
+# Ignore system-specific cruft
+.directory
+*.kate-swp
+
+# Ignore Gemfile.lock
+Gemfile.lock
