@@ -6,10 +6,10 @@ capabilities = Selenium::WebDriver::Remote::Capabilities.phantomjs("phantomjs.pa
 
 
 driver = Selenium::WebDriver.for :phantomjs, :desired_capabilities => capabilities
-#browser = Watir::Browser.new driver
+browser = Watir::Browser.new driver
 
 # Test with GUI Browser
-browser = Watir::Browser.new(:firefox)
+#browser = Watir::Browser.new(:firefox)
 
 # Clear Any Cookies
 browser.cookies.clear
