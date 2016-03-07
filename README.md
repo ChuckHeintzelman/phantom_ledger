@@ -1,6 +1,7 @@
 #### WHAT
 This is a collection of scripts working towards automated checking of sales reports for the following sites:
 - Kindle Direct Publishing (KDP)
+- Kobo
 - Smashwords
 
 #### WHY
@@ -25,7 +26,6 @@ As of right now the scripts are simply logging in and saving (as .html) the defa
 #### COMING SOON?
 - iTunes
 - Google Play 
-- Kobo
 - Nook
 - Createspace
 - DriveThru
