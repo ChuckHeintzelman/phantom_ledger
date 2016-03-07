@@ -1,7 +1,10 @@
 #### WHAT
 This is a collection of scripts working towards automated checking of sales reports for the following sites:
+- Createspace
+- DriveThru
 - Kindle Direct Publishing (KDP)
 - Kobo
+- Nook
 - Smashwords
 
 #### WHY
@@ -29,7 +32,4 @@ As of right now the scripts are simply logging in and saving (as .html) the defa
 #### COMING SOON?
 - iTunes
 - Google Play 
-- Nook
-- Createspace
-- DriveThru
 - Gumroad
