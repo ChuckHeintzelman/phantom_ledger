@@ -2,6 +2,7 @@
 This is a collection of scripts working towards automated checking of sales reports for the following sites:
 - Createspace
 - DriveThru
+- iTunes
 - Kindle Direct Publishing (KDP)
 - Kobo
 - Nook
@@ -30,7 +31,6 @@ I'm working on creating functional scripts for each storefront on my list that c
 As of right now the scripts are simply logging in and saving (as .html) the default reports page for each storefront. Once I've got that step done for each storefront I'll start working on DataMapping models to grab only the information we want.
 
 #### COMING SOON?
-- iTunes
 - Google Play
   - For now, this script doesn't work if 2-factor authorization is enabled on your Google account
   - It also stops short of actually downloading the report due to how Google coded this page
