@@ -31,5 +31,7 @@ As of right now the scripts are simply logging in and saving (as .html) the defa
 
 #### COMING SOON?
 - iTunes
-- Google Play 
+- Google Play
+  - For now, this script doesn't work if 2-factor authorization is enabled on your Google account
+  - It also stops short of actually downloading the report due to how Google coded this page
 - Gumroad
